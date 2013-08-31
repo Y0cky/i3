@@ -39,6 +39,7 @@ exec synclient HorizTwoFingerScroll=1
 exec synclient VertEdgeScroll=0
 exec synclient HorizEdgeScroll=0
 exec synclient TapButton1=1
+exec synclient TapButton2=3
 
 # Settings dämon
 
